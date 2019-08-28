@@ -25,7 +25,8 @@ package com.raywenderlich.galacticon
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import com.squareup.picasso.Picasso
-import kotlinx.android.synthetic.main.activity_photo.*
+import kotlinx.android.synthetic.main.activity_photo.photoImageView
+import kotlinx.android.synthetic.main.activity_photo.photoDescription
 
 class PhotoActivity : AppCompatActivity() {
 
